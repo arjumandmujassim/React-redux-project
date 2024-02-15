@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Josefin+Sans:wght@300&family=Poppins:wght@200;300;400;500&family=Raleway:wght@300;400;500&family=Roboto+Slab:wght@300&display=swap");
 
 .App {
-  width: 100w;
+  width: 90w;
   height: 100vh;
   display: flex;
   flex-direction: column;
